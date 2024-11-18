@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+int dia = 5;
+int loop = dia -1;
+while(dia >= loop){
 
-public class Mega {
+    loop++;
 }
+
